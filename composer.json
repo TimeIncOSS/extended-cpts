@@ -31,5 +31,5 @@
 	},
 	"autoload": {
 		"files": ["extended-cpts.php"]
-	}
+	} 
 }
